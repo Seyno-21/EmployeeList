@@ -1,5 +1,7 @@
 # EmployeeList
 
+
+# Instructions
 Run the program.
 
 The program will display a menu with options to add, insert, update, delete, search and display employee information.
