@@ -22,6 +22,6 @@ The program will continue to prompt you to enter an option of 'y' or 'n' until y
 
 
 ## Learning
-This program was originally something I did as a project in school. When I was in school I made this program in C# but after learning about ChatGPT and java I conwerted it to a java ran program.
+This program was originally something I did as a project in school. I first made this program in C#, but after learning about ChatGPT I converted it to a java ran program.
 
-The way I converted the code to a java program was relatively easy with the use of ChatGPT, I just copy and pasted my original code into the text box and asked it to convert it to java. The only issue was that ChatGPT didn't translate the code perfectly so I had to learn the basic syntax of java to be able to fix the errors in the code. after spending a day learning java I was able to quickly realise the parts of the code that ChatGPT had messed up and fixed all of the errors so that the program worked as intended in java. 
+The way I converted it to a java program was relatively easy with the use of ChatGPT, I just copy and pasted my original code into the text box and asked it to convert it to java. The only issue was that ChatGPT didn't translate the code perfectly so I had to learn the basic syntax of java to be able to fix the errors. After spending a day learning java I was able to quickly realise the parts of the code that ChatGPT had messed up in and fixed all of the errors so that the program worked as intended in java. 
